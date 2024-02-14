@@ -1,4 +1,4 @@
-# Topic-modelling-and-sentiment-analysis-of-Vinted-reviews
+# Topic-modelling-and-sentiment-analysis-of-Tinder-reviews
 
 ## About the project 
 
