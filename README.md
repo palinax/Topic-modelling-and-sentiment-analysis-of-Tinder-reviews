@@ -2,9 +2,8 @@
 
 ## About the project 
 
-Goal of this project is to extract relevant customer feedback and user sentiments for the popular dating app - Tinder. The app is controlversial 
-and has paid features therefore it is useful to check coommon user feedback beforew signing up for the paid version. For that purpose, I used topic 
-modelling and sentiment analysis techniques. 
+
+The objective of this project is to extract relevant customer feedback and user sentiments regarding the popular dating application, Tinder. Given the controversial nature of the app and its inclusion of paid features, it is essential to gauge common user feedback before considering enrollment in the premium version. To achieve this goal, I used topic modeling and sentiment analysis techniques. By leveraging topic modeling and sentiment analysis, valuable insights about user opinions and experiences with Tinder were obtained, aiding potential users in making informed decisions about their engagement with the app, particularly concerning its paid features.
 
 ## Data
 
