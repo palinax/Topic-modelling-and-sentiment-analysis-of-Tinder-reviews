@@ -13,6 +13,6 @@ The dataset was obtained by scraping 10000 latest reviews about Tinder from Goog
 
 ## Methods used 
 
-Topic modelling via BERTopic 
-Sentiment analysis with DistilBERT model
+* Topic modelling via BERTopic 
+* Sentiment analysis with DistilBERT model
 
